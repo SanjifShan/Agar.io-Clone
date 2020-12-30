@@ -7,4 +7,4 @@ A work in progress we wish to launch mid Term 2 2020-21
 
 The indivudual blobs are performing random Brownian motion. 
 
-In the coming weeks we will use sockets to build a server that can handle multiple clients
+In the coming weeks we will use sockets to build a server that can handle multiple clients.
