@@ -1,2 +1,2 @@
 # agar.io-clone
-online agar.io clone as a sandbox for a reinforcement learning challenge for Warwick AI society
+Sandbox for a reinforcement learning challenge for Warwick AI society. A work in progress we wish to launch mid Term 2 2020-21
